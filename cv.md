@@ -3,5 +3,5 @@
 3. I want to develop myself. Learn something new.
 4. No Skill.
 5.I work in the field of telecommunications. everything is new.
-6.English is very weak
+6.English is very weak.
 
