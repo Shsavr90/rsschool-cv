@@ -1,0 +1,15 @@
+<style type="text/css">
+    body{
+      color: darkblue
+    }
+    h1{
+      color:coral; text-align: center
+    }
+    p {
+      font-style: italic; 
+      text-align: center;
+    }
+    .center-img{
+        display: block;
+        margin: 0 auto;
+      }
